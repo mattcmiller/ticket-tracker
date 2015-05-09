@@ -2,7 +2,10 @@
 	
 require 'config.inc';
 require 'db.inc';
-	
+
+function return_test(){
+	echo "test";
+}
 	
 function user_auth(){
 	if(!do_auth()){	
