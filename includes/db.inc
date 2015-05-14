@@ -35,6 +35,10 @@ function db_fetch_hash($qhandle) {
     return mysqli_fetch_array($qhandle, MYSQL_ASSOC);
 }
 
+function setup_db(){
+	
+}
+
 function db_fetch_all_hash($qhandle) {
     $rows = array();
 	    

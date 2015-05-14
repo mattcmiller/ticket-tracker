@@ -1,5 +1,5 @@
 <div id="login">
-	<img src="imgs/logo.png"/>
+	<img src="imgs/tasktracker-logo.png"/>
 	<div id="login-inner">
 		
 		{if $error}

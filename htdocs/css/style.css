@@ -68,7 +68,8 @@ ul{
 }
 
 .bg{
-	background:url(../imgs/bg.png) 10px 10px;
+	background:#e8e8e8;
+	/*background:url(../imgs/bg.png) 10px 10px;*/
 	height:100%;
 	width:100%;
 }
@@ -166,7 +167,7 @@ ul{
 }
 
 .submit-bt{
-	width:180px;
+	width:100px;
 }
 .clear{
 	clear:both;
